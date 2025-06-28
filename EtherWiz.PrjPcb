@@ -50,7 +50,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=C:\Users\ian\Documents\AltiumLL\SamacSys.PcbLib
+DocumentPath=..\..\..\Users\ian\Documents\AltiumLL\SamacSys.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MPCYBHBH
 
 [Document3]
-DocumentPath=C:\Users\ian\Documents\AltiumLL\SamacSys.SchLib
+DocumentPath=..\..\..\Users\ian\Documents\AltiumLL\SamacSys.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -149,7 +149,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XLVEFPWS
 
 [Document7]
 DocumentPath=EtherWiz.SchDoc
@@ -181,6 +181,10 @@ Name=Project_Title
 Value=EtherWiz
 
 [Parameter4]
+Name=PCB_RevNo
+Value=1.0
+
+[Parameter5]
 Name=DrawnBy
 Value=Ian Jeffray
 
