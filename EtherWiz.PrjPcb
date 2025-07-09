@@ -170,11 +170,11 @@ DocumentUniqueId=XCYNZSPY
 
 [Parameter1]
 Name=Sch_RevNo
-Value=1
+Value=2
 
 [Parameter2]
 Name=Sch_ReleaseDate
-Value=June 2025
+Value=July 2025
 
 [Parameter3]
 Name=Project_Title
