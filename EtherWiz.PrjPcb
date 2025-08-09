@@ -207,10 +207,11 @@ UniqueId=edd0d8e3-0be9-4d76-90a4-c3cfaf5d5f81
 Description=Full Podule
 AllowFabrication=1
 ParameterCount=0
-VariationCount=2
+VariationCount=3
 AllowVariationPastMask=1
 Variation1=Designator=PL2|UniqueId=\VKHVEIGS|Kind=1|AlternatePart=
 Variation2=Designator=PL3|UniqueId=\QYLTFHCI|Kind=1|AlternatePart=
+Variation3=Designator=PL4|UniqueId=\RQSHAPTE|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -218,9 +219,29 @@ UniqueId=f9a7854e-8efe-49b4-a985-e30c7376e53e
 Description=Mini Podule
 AllowFabrication=1
 ParameterCount=0
-VariationCount=1
+VariationCount=2
 AllowVariationPastMask=1
 Variation1=Designator=PL1|UniqueId=\CTXXIUTG|Kind=1|AlternatePart=
+Variation2=Designator=PL4|UniqueId=\RQSHAPTE|Kind=1|AlternatePart=
+ParamVariationCount=0
+
+[ProjectVariant3]
+UniqueId=91531afb-f184-4335-8fdc-6955c94310c2
+Description=A4
+AllowFabrication=0
+ParameterCount=0
+VariationCount=11
+Variation1=Designator=PL3|UniqueId=\QYLTFHCI|Kind=1|AlternatePart=
+Variation2=Designator=PL2|UniqueId=\VKHVEIGS|Kind=1|AlternatePart=
+Variation3=Designator=IC3|UniqueId=\ROLEZHKP|Kind=1|AlternatePart=
+Variation4=Designator=IC4|UniqueId=\TLOUQXSG|Kind=1|AlternatePart=
+Variation5=Designator=IC5|UniqueId=\LZBVCPIL|Kind=1|AlternatePart=
+Variation6=Designator=IC2|UniqueId=\LWGTMMHW|Kind=1|AlternatePart=
+Variation7=Designator=PL1|UniqueId=\CTXXIUTG|Kind=1|AlternatePart=
+Variation8=Designator=IC9|UniqueId=\GWLJMWQX|Kind=1|AlternatePart=
+Variation9=Designator=IC1|UniqueId=\XMCNSEDY|Kind=1|AlternatePart=
+Variation10=Designator=C2|UniqueId=\IOMTBIUN|Kind=1|AlternatePart=
+Variation11=Designator=C1|UniqueId=\KNXRXOEK|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
