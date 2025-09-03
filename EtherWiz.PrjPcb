@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=A4
 
 [Preferences]
 PrefsVaultGUID=
@@ -207,11 +208,12 @@ UniqueId=edd0d8e3-0be9-4d76-90a4-c3cfaf5d5f81
 Description=Full Podule
 AllowFabrication=1
 ParameterCount=0
-VariationCount=3
+VariationCount=4
 AllowVariationPastMask=1
 Variation1=Designator=PL2|UniqueId=\VKHVEIGS|Kind=1|AlternatePart=
 Variation2=Designator=PL3|UniqueId=\QYLTFHCI|Kind=1|AlternatePart=
 Variation3=Designator=PL4|UniqueId=\RQSHAPTE|Kind=1|AlternatePart=
+Variation4=Designator=IC10|UniqueId=\NQIHJJJI|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -219,10 +221,11 @@ UniqueId=f9a7854e-8efe-49b4-a985-e30c7376e53e
 Description=Mini Podule
 AllowFabrication=1
 ParameterCount=0
-VariationCount=2
+VariationCount=3
 AllowVariationPastMask=1
 Variation1=Designator=PL1|UniqueId=\CTXXIUTG|Kind=1|AlternatePart=
 Variation2=Designator=PL4|UniqueId=\RQSHAPTE|Kind=1|AlternatePart=
+Variation3=Designator=IC10|UniqueId=\NQIHJJJI|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [ProjectVariant3]
@@ -245,24 +248,28 @@ Variation11=Designator=C1|UniqueId=\KNXRXOEK|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=DrawnBy
-Value=Ian Jeffray
+Name=
+Value=
 
 [Parameter2]
-Name=PCB_RevNo
-Value=1.0
+Name=Sch_RevNo
+Value=3
 
 [Parameter3]
+Name=Sch_ReleaseDate
+Value=September 2025
+
+[Parameter4]
 Name=Project_Title
 Value=EtherWiz
 
-[Parameter4]
-Name=Sch_ReleaseDate
-Value=July 2025
-
 [Parameter5]
-Name=Sch_RevNo
-Value=2
+Name=PCB_RevNo
+Value=1.0
+
+[Parameter6]
+Name=DrawnBy
+Value=Ian Jeffray
 
 [Configuration1]
 Name=Sources
