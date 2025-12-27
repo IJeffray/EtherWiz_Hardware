@@ -150,9 +150,26 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XCYNZSPY
+DocumentUniqueId=DAUEKPKX
 
 [Document7]
+DocumentPath=EtherWiz_Sockets.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XCYNZSPY
+
+[Document8]
 DocumentPath=EtherWiz.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -169,7 +186,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XLVEFPWS
 
-[Document8]
+[Document9]
 DocumentPath=EtherWizMini.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -186,7 +203,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DTHWSDEP
 
-[Document9]
+[Document10]
 DocumentPath=EtherWizA4.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -203,17 +220,44 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KUTPXIFJ
 
+[Document11]
+DocumentPath=EtherWiz3K4KNic.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PGZNOVYY
+
 [ProjectVariant1]
 UniqueId=edd0d8e3-0be9-4d76-90a4-c3cfaf5d5f81
 Description=Full Podule
 AllowFabrication=1
 ParameterCount=0
-VariationCount=4
+VariationCount=14
 AllowVariationPastMask=1
 Variation1=Designator=PL2|UniqueId=\VKHVEIGS|Kind=1|AlternatePart=
 Variation2=Designator=PL3|UniqueId=\QYLTFHCI|Kind=1|AlternatePart=
 Variation3=Designator=PL4|UniqueId=\RQSHAPTE|Kind=1|AlternatePart=
 Variation4=Designator=IC10|UniqueId=\NQIHJJJI|Kind=1|AlternatePart=
+Variation5=Designator=C40|UniqueId=\HOPKDVFO|Kind=1|AlternatePart=
+Variation6=Designator=J?|UniqueId=\RWZFUQYX|Kind=1|AlternatePart=
+Variation7=Designator=J?|UniqueId=\EEMDJNGW|Kind=1|AlternatePart=
+Variation8=Designator=J?|UniqueId=\OUFHODIJ|Kind=1|AlternatePart=
+Variation9=Designator=J?|UniqueId=\OIGVCXUT|Kind=1|AlternatePart=
+Variation10=Designator=J?|UniqueId=\VXEIHDTQ|Kind=1|AlternatePart=
+Variation11=Designator=PL?|UniqueId=\WUKEOWVU|Kind=1|AlternatePart=
+Variation12=Designator=IC12|UniqueId=\STRNNHLU|Kind=1|AlternatePart=
+Variation13=Designator=IC11|UniqueId=\RFKKJFDO|Kind=1|AlternatePart=
+Variation14=Designator=SK1_A4|UniqueId=\VNAFLBMS|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -221,11 +265,21 @@ UniqueId=f9a7854e-8efe-49b4-a985-e30c7376e53e
 Description=Mini Podule
 AllowFabrication=1
 ParameterCount=0
-VariationCount=3
+VariationCount=13
 AllowVariationPastMask=1
 Variation1=Designator=PL1|UniqueId=\CTXXIUTG|Kind=1|AlternatePart=
 Variation2=Designator=PL4|UniqueId=\RQSHAPTE|Kind=1|AlternatePart=
 Variation3=Designator=IC10|UniqueId=\NQIHJJJI|Kind=1|AlternatePart=
+Variation4=Designator=C40|UniqueId=\HOPKDVFO|Kind=1|AlternatePart=
+Variation5=Designator=J?|UniqueId=\RWZFUQYX|Kind=1|AlternatePart=
+Variation6=Designator=J?|UniqueId=\EEMDJNGW|Kind=1|AlternatePart=
+Variation7=Designator=J?|UniqueId=\OUFHODIJ|Kind=1|AlternatePart=
+Variation8=Designator=J?|UniqueId=\OIGVCXUT|Kind=1|AlternatePart=
+Variation9=Designator=J?|UniqueId=\VXEIHDTQ|Kind=1|AlternatePart=
+Variation10=Designator=PL?|UniqueId=\WUKEOWVU|Kind=1|AlternatePart=
+Variation11=Designator=IC11|UniqueId=\RFKKJFDO|Kind=1|AlternatePart=
+Variation12=Designator=IC12|UniqueId=\STRNNHLU|Kind=1|AlternatePart=
+Variation13=Designator=SK1_A4|UniqueId=\VNAFLBMS|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [ProjectVariant3]
@@ -233,43 +287,68 @@ UniqueId=91531afb-f184-4335-8fdc-6955c94310c2
 Description=A4
 AllowFabrication=0
 ParameterCount=0
-VariationCount=11
+VariationCount=23
 Variation1=Designator=PL3|UniqueId=\QYLTFHCI|Kind=1|AlternatePart=
 Variation2=Designator=PL2|UniqueId=\VKHVEIGS|Kind=1|AlternatePart=
-Variation3=Designator=IC3|UniqueId=\ROLEZHKP|Kind=1|AlternatePart=
-Variation4=Designator=IC4|UniqueId=\TLOUQXSG|Kind=1|AlternatePart=
-Variation5=Designator=IC5|UniqueId=\LZBVCPIL|Kind=1|AlternatePart=
-Variation6=Designator=IC2|UniqueId=\LWGTMMHW|Kind=1|AlternatePart=
+Variation3=Designator=IC3|UniqueId=\UMPBIKPF|Kind=1|AlternatePart=
+Variation4=Designator=IC4|UniqueId=\JSDIAYFF|Kind=1|AlternatePart=
+Variation5=Designator=IC5|UniqueId=\RKMGIBVL|Kind=1|AlternatePart=
+Variation6=Designator=IC2|UniqueId=\YGOTHYJM|Kind=1|AlternatePart=
 Variation7=Designator=PL1|UniqueId=\CTXXIUTG|Kind=1|AlternatePart=
-Variation8=Designator=IC9|UniqueId=\GWLJMWQX|Kind=1|AlternatePart=
-Variation9=Designator=IC1|UniqueId=\XMCNSEDY|Kind=1|AlternatePart=
-Variation10=Designator=C2|UniqueId=\IOMTBIUN|Kind=1|AlternatePart=
-Variation11=Designator=C1|UniqueId=\KNXRXOEK|Kind=1|AlternatePart=
+Variation8=Designator=IC9|UniqueId=\JMZXGJZX|Kind=1|AlternatePart=
+Variation9=Designator=IC1|UniqueId=\ZMUGZRXP|Kind=1|AlternatePart=
+Variation10=Designator=C2|UniqueId=\FGMKPPTX|Kind=1|AlternatePart=
+Variation11=Designator=C1|UniqueId=\NIAEYEPK|Kind=1|AlternatePart=
+Variation12=Designator=C40|UniqueId=\HOPKDVFO|Kind=1|AlternatePart=
+Variation13=Designator=J?|UniqueId=\RWZFUQYX|Kind=1|AlternatePart=
+Variation14=Designator=J?|UniqueId=\EEMDJNGW|Kind=1|AlternatePart=
+Variation15=Designator=J?|UniqueId=\OUFHODIJ|Kind=1|AlternatePart=
+Variation16=Designator=J?|UniqueId=\OIGVCXUT|Kind=1|AlternatePart=
+Variation17=Designator=J?|UniqueId=\VXEIHDTQ|Kind=1|AlternatePart=
+Variation18=Designator=PL?|UniqueId=\WUKEOWVU|Kind=1|AlternatePart=
+Variation19=Designator=IC11|UniqueId=\RFKKJFDO|Kind=1|AlternatePart=
+Variation20=Designator=IC12|UniqueId=\STRNNHLU|Kind=1|AlternatePart=
+Variation21=Designator=SK1|UniqueId=\KYTCJCPY|Kind=1|AlternatePart=
+Variation22=Designator=R11|UniqueId=\ZBGQOSEC|Kind=1|AlternatePart=
+Variation23=Designator=R12|UniqueId=\ONZUIIHG|Kind=1|AlternatePart=
+ParamVariationCount=0
+
+[ProjectVariant4]
+UniqueId=1b190765-bdfe-4163-99ef-c446b3014fc4
+Description=A3020_A4000
+AllowFabrication=0
+ParameterCount=0
+VariationCount=9
+Variation1=Designator=PL2|UniqueId=\VKHVEIGS|Kind=1|AlternatePart=
+Variation2=Designator=PL3|UniqueId=\QYLTFHCI|Kind=1|AlternatePart=
+Variation3=Designator=PL4|UniqueId=\RQSHAPTE|Kind=1|AlternatePart=
+Variation4=Designator=IC10|UniqueId=\NQIHJJJI|Kind=1|AlternatePart=
+Variation5=Designator=PL1|UniqueId=\CTXXIUTG|Kind=1|AlternatePart=
+Variation6=Designator=R11|UniqueId=\ZBGQOSEC|Kind=1|AlternatePart=
+Variation7=Designator=R12|UniqueId=\ONZUIIHG|Kind=1|AlternatePart=
+Variation8=Designator=SK1|UniqueId=\KYTCJCPY|Kind=1|AlternatePart=
+Variation9=Designator=SK1_A4|UniqueId=\VNAFLBMS|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=
-Value=
+Name=DrawnBy
+Value=Ian Jeffray
 
 [Parameter2]
-Name=Sch_RevNo
-Value=3
-
-[Parameter3]
-Name=Sch_ReleaseDate
-Value=September 2025
-
-[Parameter4]
-Name=Project_Title
-Value=EtherWiz
-
-[Parameter5]
 Name=PCB_RevNo
 Value=1.0
 
-[Parameter6]
-Name=DrawnBy
-Value=Ian Jeffray
+[Parameter3]
+Name=Project_Title
+Value=EtherWiz
+
+[Parameter4]
+Name=Sch_ReleaseDate
+Value=October 2025
+
+[Parameter5]
+Name=Sch_RevNo
+Value=4
 
 [Configuration1]
 Name=Sources
@@ -683,6 +762,11 @@ OutputName9=Report Single Pin Nets
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
+OutputType10=BOM_ReportManufacturing
+OutputName10=Manufacturing Data
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
 
 [OutputGroup7]
 Name=Other Outputs
@@ -977,6 +1061,8 @@ Type156=1
 Type157=1
 Type158=1
 Type159=1
+Type160=1
+Type161=1
 
 [Difference Levels]
 Type1=1
@@ -1066,6 +1152,7 @@ Type84=1
 Type85=1
 Type86=1
 Type87=1
+Type88=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1231,6 +1318,8 @@ Type160=0
 Type161=0
 Type162=1
 Type163=1
+Type164=1
+Type165=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
