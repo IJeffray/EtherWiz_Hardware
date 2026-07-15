@@ -1,2 +1,3 @@
 Record=TopLevelDocument|FileName=EtherWiz.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=EtherWiz.SchDoc|FileName=EtherWiz_Sockets.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=EtherWiz.SchDoc|FileName=EtherWiz_Controller.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=EtherWiz.SchDoc|FileName=EtherWiz_Sockets.SchDoc|SheetNumber=3
