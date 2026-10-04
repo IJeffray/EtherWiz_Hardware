@@ -1,0 +1,12 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Projects\EtherWiz_FullSize.PrjPcb
+[Project2]
+ProjectPath=Projects\EtherWiz_Mini.PrjPcb
+[Project3]
+ProjectPath=Projects\EtherWiz_A4.PrjPcb
+[Project4]
+ProjectPath=Projects\EtherWiz_3K4KNic.PrjPcb
+[Project5]
+ProjectPath=Projects\EtherWiz_RiscPC7K.PrjPcb

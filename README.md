@@ -1,6 +1,6 @@
 # "EtherWiz" Acorn Ethernet podule (WizNet W6100)
 
-September 2025
+October 2026
 
 ![3D View](Generated/EtherWiz_3D_View.png)
 
@@ -12,7 +12,7 @@ A work in progress hardware design for an Ethernet card using the WizNet W6100 d
 
 The first spin board works, with bodges, which have been worked in to the updated design which has not yet been validated.  The updated design has also been laid out as a minipodule, which has been validated.   The A4 version design also works, with a gate inversion bodge which has also now been laid out.
 
-Interrupts have not yet been tested.
+Interrupt latching has now been implemented but not yet been tested.
 
 The design for the 3D-printable backplates are included.
 
@@ -24,4 +24,4 @@ No warranty is provided, and this work is used at your own risk.
 
 Licenced as CC BY-SA 4.0
 
-Copyright 2025 Ian Jeffray
+Copyright 2025-26 Ian Jeffray
