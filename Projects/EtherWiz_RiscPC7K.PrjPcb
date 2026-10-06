@@ -152,6 +152,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PPBZLBIE
 
+[Document7]
+DocumentPath=..\EtherWiz.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=edd0d8e3-0be9-4d76-90a4-c3cfaf5d5f81
 Description=Full Podule
@@ -216,10 +233,6 @@ Variation1=Designator=IC4|UniqueId=\JSDIAYFF|Kind=1|AlternatePart=
 Variation2=Designator=IC5|UniqueId=\RKMGIBVL|Kind=1|AlternatePart=
 Variation3=Designator=IC13|UniqueId=\ZOFADSBI|Kind=1|AlternatePart=
 ParamVariationCount=0
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for EtherWiz_RiscPC7K\Footprint Comparison - EtherWiz_RiscPC7K.html
-DItemRevisionGUID=
 
 [Parameter1]
 Name=DrawnBy
